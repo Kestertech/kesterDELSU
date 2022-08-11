@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kesterDELSU/static/css/main.7504880b.css",
+    "main.js": "/kesterDELSU/static/js/main.fc0ea5c1.js",
+    "static/js/787.40a1eb94.chunk.js": "/kesterDELSU/static/js/787.40a1eb94.chunk.js",
+    "static/media/slider3.png": "/kesterDELSU/static/media/slider3.a0c1ccc26d46cc706e42.png",
+    "static/media/icon.png": "/kesterDELSU/static/media/icon.c58f6ebec97554a56d56.png",
+    "static/media/slider2.jpeg": "/kesterDELSU/static/media/slider2.e4e02dc43fecd887227a.jpeg",
+    "static/media/slider1.jpeg": "/kesterDELSU/static/media/slider1.03de30043834fbe8b17a.jpeg",
+    "static/media/okowa.jpg": "/kesterDELSU/static/media/okowa.1151fe6c5e89f88df6fb.jpg",
+    "static/media/bms.jpeg": "/kesterDELSU/static/media/bms.3913824d9e47f824bd37.jpeg",
+    "static/media/vc.jpeg": "/kesterDELSU/static/media/vc.bf7cdd4f6a26258ead6d.jpeg",
+    "index.html": "/kesterDELSU/index.html",
+    "main.7504880b.css.map": "/kesterDELSU/static/css/main.7504880b.css.map",
+    "main.fc0ea5c1.js.map": "/kesterDELSU/static/js/main.fc0ea5c1.js.map",
+    "787.40a1eb94.chunk.js.map": "/kesterDELSU/static/js/787.40a1eb94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7504880b.css",
+    "static/js/main.fc0ea5c1.js"
+  ]
+}
